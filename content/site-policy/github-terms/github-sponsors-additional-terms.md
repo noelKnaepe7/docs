@@ -180,7 +180,7 @@ These Additional Terms commence on the Effective Date and remain in effect as lo
 ### 6.2. Suspension.
 GitHub may suspend your Sponsored Developer Account immediately if you violate these Additional Terms or the Agreement in any way, or if you are placed on a restricted trade list or located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC). Failure to correct or cure the cause for suspension may result in the termination of your Sponsored Developer Account.
 
-### 6.3. Termination.
+### 6.3. All
 Either party may terminate these Additional Terms and your Sponsored Developer Account at any time with or without cause, with or without notice. If you breach these Additional Terms or the Agreement, we may, but are not obligated to, offer you a period of time to cure the breach.
 
 ### 6.4. Effect of Termination.
